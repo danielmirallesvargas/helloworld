@@ -6,4 +6,4 @@ phases:
       - python piton.py
 artifacts:
   files:
-    - '**/*' 
+    - '*' 
